@@ -1,7 +1,7 @@
 import os
 import matplotlib.pyplot as plt
 
-folders = ['training/glioma', 'training/meningioma', 'training/pituitary', 'training/notumor']  # Replace with your actual folder paths
+folders = ['images/training/glioma', 'images/training/meningioma', 'images/training/pituitary', 'images/training/notumor']  # Replace with your actual folder paths
 
 image_counts = {folder: 0 for folder in folders}  # Initialize counts to 0
 for folder in folders:
