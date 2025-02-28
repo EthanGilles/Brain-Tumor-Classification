@@ -1,8 +1,10 @@
 # Brain Tumor Classification using MRI Images
 
-![Project Banner](placeholder_banner.png) <!-- Replace with a relevant image or diagram -->
+![https://github.com/EthanGilles/Brain-Tumor-Classification/blob/dff8f14819e323666c1ccedc0b7a95a0ce02fee5/images/dataset_example1.png](Dataset Example)
+![https://github.com/EthanGilles/Brain-Tumor-Classification/blob/dff8f14819e323666c1ccedc0b7a95a0ce02fee5/images/dataset_example2.png](Dataset Example)
 
 ## Description
+
 
 This repository contains the code and resources for a machine learning research 
 project conducted at the University of Southern Maine (USM). The goal is to 
