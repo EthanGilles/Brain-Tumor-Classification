@@ -44,6 +44,7 @@ The dataset consists of MRI scans categorized into the following classes:
 
 ## References
 [Refined Automatic Brain Tumor Classification Using Hybrid Convolutional Neural Networks for MRI Scans](https://www.mdpi.com/2075-4418/13/5/864) - AlexNet-KNN Hybrid for Brain Tumor Classification.
+
 [Advanced Brain Tumor Classification in MR Images Using Transfer Learning and Pre-Trained Deep CNN Models](https://www.mdpi.com/2072-6694/17/1/121#B23-cancers-17-00121) - Transfer Learning with Xception for MRI-Based Diagnosis.
 
 
