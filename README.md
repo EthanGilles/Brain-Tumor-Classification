@@ -4,8 +4,13 @@
 
 ![Dataset Example](https://raw.githubusercontent.com/EthanGilles/Brain-Tumor-Classification/05a1843939f030e4ff7b6da9a0037f5d0245de77/images/dataset_example2.png)
 
-## Description
+## Notebooks
 
+[AlexNet-KNN Hybrid](https://github.com/EthanGilles/Brain-Tumor-Classification/blob/main/AlexNet-KNN.ipynb)
+
+[Xception with no pretrained weights](https://github.com/EthanGilles/Brain-Tumor-Classification/blob/main/Xception-Not-Pretrained.ipynb)
+
+## Description
 
 This repository contains the code and resources for a machine learning research 
 project conducted at the University of Southern Maine (USM). The goal is to 
