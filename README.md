@@ -1,7 +1,7 @@
 # Brain Tumor Classification using MRI Images
 
-![https://github.com/EthanGilles/Brain-Tumor-Classification/blob/main/images/dataset_example1.png?raw=true](Dataset Example)
-![https://github.com/EthanGilles/Brain-Tumor-Classification/blob/main/images/dataset_example2.png?raw=true](Dataset Example)
+![https://github.com/EthanGilles/Brain-Tumor-Classification/blob/05a1843939f030e4ff7b6da9a0037f5d0245de77/images/dataset_example1.png](Dataset Example)
+![https://github.com/EthanGilles/Brain-Tumor-Classification/blob/05a1843939f030e4ff7b6da9a0037f5d0245de77/images/dataset_example2.png](Dataset Example)
 
 ## Description
 
