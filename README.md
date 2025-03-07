@@ -10,6 +10,8 @@
 
 [Xception with no pretrained weights](https://github.com/EthanGilles/Brain-Tumor-Classification/blob/main/Xception-Not-Pretrained.ipynb)
 
+[Xception-KNN Hybrid](github.com/EthanGilles/Brain-Tumor-Classification/blob/main/Xception-KNN.ipynb)
+
 ## Description
 
 This repository contains the code and resources for a machine learning research 
@@ -36,8 +38,6 @@ The dataset consists of MRI scans categorized into the following classes:
 | **Pituitary**    | Tumors in the pituitary gland, usually benign but may disrupt hormonal balance.                | ~25%                   |
 | **No Tumor**     | Healthy MRI scans with no signs of tumors.                                                     | ~20%                   |
 
-*Note: Prevalence statistics are approximate and dataset-dependent.*
-
 ## Methodology
 ### Model Architectures
 1. **AlexNet-KNN Hybrid**: A hybrid approach combining AlexNet for feature extraction and K-Nearest Neighbors (KNN) for classification. This model is tested for robustness and computational efficiency.
@@ -51,6 +51,7 @@ The dataset consists of MRI scans categorized into the following classes:
 
 
 ## References
+
 [Refined Automatic Brain Tumor Classification Using Hybrid Convolutional Neural Networks for MRI Scans](https://www.mdpi.com/2075-4418/13/5/864) - AlexNet-KNN Hybrid for Brain Tumor Classification.
 
 [Advanced Brain Tumor Classification in MR Images Using Transfer Learning and Pre-Trained Deep CNN Models](https://www.mdpi.com/2072-6694/17/1/121#B23-cancers-17-00121) - Transfer Learning with Xception for MRI-Based Diagnosis.
@@ -58,13 +59,13 @@ The dataset consists of MRI scans categorized into the following classes:
 
 ## Previous Results
 
-In previous papers we have the following results:
+In previous papers we have the following results, along with mine:
 | Model            | Accuracy | Precision | Recall | F1-Score | 
 |------------------|----------|-----------|--------|----------|
 | AlexNet-KNN (Paper 1)     | 96%    | 96%      | 100%   | 97%     |
 | Xception (Paper 2) | 95.2%   | 95%      | 94%   | 95%     |
+| Xception-KNN Hybrid (My approach) | 98.4%   | 98%      | 98%   | 98%     |
 
-These are great results however testing the robustness and efficientcy of these models is necessary.
 
 ## Results
 
