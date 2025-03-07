@@ -18,15 +18,6 @@ This repository contains the code and resources for a machine learning research
 project conducted at the University of Southern Maine (USM). The goal is to 
 classify brain tumors in MRI images into one of four 
 classes: **gliomas**, **meningiomas**, **pituitary tumors**, and **no tumor**. 
-The project focuses on evaluating the robustness of the AlexNet-KNN hybrid 
-model proposed in prior work and developing a lightweight yet accurate 
-alternative to heavyweight architectures like Xception.
-
-## Key Features
-- **Multi-class Classification**: Predicts tumor type from MRI images across four classes.
-- **Model Efficiency**: Prioritizes lightweight architectures to ensure deployability in resource-constrained environments.
-- **Reproducibility**: Detailed code and documentation to replicate experiments.
-- **Comparative Analysis**: Benchmarks performance against the Xception-based transfer learning approach.
 
 ## Dataset Overview
 The dataset consists of MRI scans categorized into the following classes:
@@ -38,15 +29,9 @@ The dataset consists of MRI scans categorized into the following classes:
 | **Pituitary**    | Tumors in the pituitary gland, usually benign but may disrupt hormonal balance.                | ~25%                   |
 | **No Tumor**     | Healthy MRI scans with no signs of tumors.                                                     | ~20%                   |
 
-## Methodology
-### Model Architectures
-1. **AlexNet-KNN Hybrid**: A hybrid approach combining AlexNet for feature extraction and K-Nearest Neighbors (KNN) for classification. This model is tested for robustness and computational efficiency.
-2. **Xception, but not pretrained**: To test the transfer learning capabilities of Xception, there will be an Xception architecture but with random weights.
-3. **Lightweight Custom Architectures**: Experiments with streamlined convolutional neural networks (CNNs) to balance accuracy and model size.
-
 ### Motivation
 - Prior work ([Paper 1](#)) demonstrated the potential of AlexNet-KNN for brain tumor classification, but its robustness under varied conditions remains understudied.
-- Transfer learning with Xception ([Paper 2](#)) achieved high accuracy but at the cost of computational complexity. This project aims to bridge the gap between performance and efficiency.
+- Transfer learning with Xception ([Paper 2](#)) achieved high accuracy but at the cost of computational complexity. This project aims to leverage the Xception model.
 - Correct classification of tumors in MRI scans is crucial for accurate diagnosis and treatment planning.
 
 
@@ -66,10 +51,6 @@ In previous papers we have the following results, along with mine:
 | Xception (Paper 2) | 95.2%   | 95%      | 94%   | 95%     |
 | Xception-KNN Hybrid (My approach) | 98.4%   | 98%      | 98%   | 98%     |
 
-
-## Results
-
-I am currently working on conducting experiments for the results.
 
 ## Acknowledgments
 
