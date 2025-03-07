@@ -10,7 +10,7 @@
 
 [Xception with no pretrained weights](https://github.com/EthanGilles/Brain-Tumor-Classification/blob/main/Xception-Not-Pretrained.ipynb)
 
-[Xception-KNN Hybrid](github.com/EthanGilles/Brain-Tumor-Classification/blob/main/Xception-KNN.ipynb)
+[Xception-KNN Hybrid](https://github.com/EthanGilles/Brain-Tumor-Classification/blob/main/Xception-KNN.ipynb)
 
 ## Description
 
