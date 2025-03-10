@@ -8,7 +8,7 @@
 
 [AlexNet-KNN Hybrid](https://github.com/EthanGilles/Brain-Tumor-Classification/blob/main/AlexNet-KNN.ipynb)
 
-[Xception Finetuning](https://github.com/EthanGilles/Brain-Tumor-Classification/blob/main/Xception-Not-Pretrained.ipynb)
+[Xception Finetuning](https://github.com/EthanGilles/Brain-Tumor-Classification/blob/main/Xception-FineTuning.ipynb)
 
 [Xception-KNN Hybrid](https://github.com/EthanGilles/Brain-Tumor-Classification/blob/main/Xception-KNN.ipynb)
 
